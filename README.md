@@ -6,7 +6,15 @@
 ## Overview
 
 This independent research project explores the relationship between AI capabilities, labor automation, compute demand, and the long-term sustainability of AI infrastructure investment.
+## Full Paper
 
+**AI Demand Is a Function of AI Capability**
+
+[Read the Full Paper (PDF)](./AI_Demand_Is_a_Function_of_AI_Capability.pdf)
+
+Version 1.0 | November 2026
+
+Independent Research Paper — Not Peer-Reviewed
 ## Core Research Arguments
 
 ### 1. Human Demand for Labor Substitution
